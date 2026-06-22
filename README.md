@@ -1,2 +1,2 @@
-Experiment.py is the code of our research. \n
-Images content ten test images we used in our research.
+- Experiment.py is the code of our research.
+- Images content ten test images we used in our research.
